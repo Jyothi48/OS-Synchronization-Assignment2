@@ -1,6 +1,6 @@
 # OS Synchronization Assignment - Readers-Writers & Dining Philosophers
 
-**Student name:** Jyothu  
+**Student name:** Jyothi
 **USN:** NNM25is505 
 **Course:** Operating Systems
 
